@@ -1,0 +1,4 @@
+[application]
+config_version=5
+name="Void Drift"
+main_scene="res://scenes/Main.tscn"
